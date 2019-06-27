@@ -11,7 +11,7 @@ Arduino_Bluetooth_DoorRock_Android App
 회원가입  
 <img src="./image/register.jpg" width="40%"/>  
   
-지문인식 로그인
+지문인식 로그인  
 <img src="./image/fingerprint.jpg" width="40%"/>  
   
 블루투스 연결  
@@ -20,8 +20,8 @@ Arduino_Bluetooth_DoorRock_Android App
 메인화면  
 <img src="./image/bluetooth1.jpg" width="30%"/> <img src="./image/bluetooth2.jpg" width="30%"/> <img src="./image/bluetooth3.jpg" width="30%"/>  
   
-비밀번호로 직접 해제
+비밀번호로 직접 해제  
 <img src="./image/password.jpg" width="40%"/>  
   
-내 정보
+내 정보  
 <img src="./image/my.jpg" width="40%"/>  
