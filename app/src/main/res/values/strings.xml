@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">아두이노 블루투스 도어락</string>
+    <string name="sign_in">로그인</string>
+    <string name="sign_up">회원가입</string>
+    <string name="authenticate_fingerprint">지문을 인증하는 중 오류가 발생했습니다.</string>
+    <string name="auth_successful">지문 인증 성공</string>
+    <string name="Unknown_permission_request">Unrecognized permission request</string>
+    <string name="permission_refused">" 사용자가 지문 사용 권한을 거부했습니다."</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="address_hint">Address</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="username_hint">Username</string>
+    <string name="with_fingerprint">지문인식만 사용</string>
+    <string name="with_fingerprint_and_password">지문인식과 비밀번호 사용</string>
+    <string name="login_with_fingerprint">지문인식으로 로그인</string>
+    <string name="login_now">로그인</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_finger_print"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    tools:context=".LoginActivity">
+
+    <LinearLayout
+        android:id="@+id/image"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:background="@drawable/ic_fp_40px">
+
+        <View
+            android:id="@+id/bar"
+            android:layout_width="125dp"
+            android:layout_height="5dp"
+            android:visibility="gone"
+            android:background="@android:color/black"
+            android:src="@drawable/ic_fp_40px"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorBlack"
+        android:textSize="25dp"
+        android:text="지문을 인식시켜주세요."
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_24sdp"/>
+
+</LinearLayout>
